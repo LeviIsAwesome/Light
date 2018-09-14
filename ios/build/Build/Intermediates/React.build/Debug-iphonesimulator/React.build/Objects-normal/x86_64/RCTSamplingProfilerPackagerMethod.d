@@ -1,0 +1,17 @@
+dependencies: \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.mm \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/leviguo/Developer/ReactNativeProjects/test/node_modules/react-native/React/Base/RCTUtils.h

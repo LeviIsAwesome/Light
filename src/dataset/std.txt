@@ -1,0 +1,356 @@
+# [title, price, location, dim, type, wattage ,PK，colour] 
+# ‘L’ for LED, ‘I’ for Incandencent, 'H' for Halogen, 'V' for Vintage, 'LV' for LED Vintage
+# LED colour: 'DL' for Daylight, 'SW' for Soft White, 'BW' for Bright White
+# LED Vintage color: 'A' for Amber, 'R' for Regular
+
+
+standard=
+[
+    ["PHILIPS LED 100W A19 Daylight 2PK N/D",
+     "16.98", 
+     "004",
+     0, 
+     "L", 
+     100, 
+     2,
+     "DL"
+    ],
+
+    ["PHILIPS LED 60W A19 Daylight D",
+     "6.97", 
+     "002",
+     0, 
+     "L", 
+     60, 
+     1,
+     "DL"
+    ],
+
+    ["PHILIPS 60W A19 Plant Light",
+     "6.48", 
+     "014",
+     0, 
+     "I", 
+     60, 
+     1 
+    ],
+
+    ["PHILIPS LED 60W A19 Daylight 4PK N/D",
+     "14.98", 
+     "004",
+     0, 
+     "L", 
+     60, 
+     4,
+     "DL"
+    ],
+
+    ["PHILIPS LED 60W A19 Soft White WarmGlow D",
+     "6.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     1,
+     "SW" 
+    ],
+
+    ["PHILIPS 40W Appliance Bulb Frost 2PK ",
+     "4.87", 
+     "012",
+     0, 
+     "I", 
+     40, 
+     1,
+    ],
+    
+    ["PHILIPS LED 60W A19 Soft White 4PK N/D",
+     "14.98", 
+     "004",
+     0, 
+     "L", 
+     60, 
+     4,
+     "SW" 
+    ],  
+
+    ["PHILIPS LED 100W A19 Soft White 2PK N/D",
+     "16.98", 
+     "004",
+     0, 
+     "L", 
+     100, 
+     2,
+     "SW" 
+    ], 
+
+    ["PHILIPS LED 60W A19 Soft White WarmGlow 2PK",
+     "12.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     2,
+     "SW" 
+    ], 
+
+    ["ECOSMART LED 60W A19 Daylight 6PK N/D",
+     "16.98", 
+     "004",
+     0, 
+     "L", 
+     60, 
+     6,
+     "DL" 
+    ], 
+      
+    ["ECOSMART LED 60W A19 Daylight 6PK D",
+     "29.97", 
+     "006",
+     1, 
+     "L", 
+     60, 
+     6,
+     "DL" 
+    ],    
+      
+    ["PHILIPS 100W A19 Rough Service Frost 2PK",
+     "6.48", 
+     "014",
+     0, 
+     "H", 
+     100, 
+     1, 
+    ], 
+      
+    ["PHILIPS LED 60W A19 Bright White 2PK D",
+     "6.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     1,
+     "BW" 
+    ], 
+    
+    ["PHILIPS LED 100W A21 Soft White WarmGlow",
+     "17.97", 
+     "004",
+     1, 
+     "L", 
+     100, 
+     1,
+     "SW" 
+    ],
+
+    ["PHILIPS LED 40W A19 Soft White N/D",
+     "6.97", 
+     "004",
+     0, 
+     "L", 
+     40, 
+     2,
+     "SW" 
+    ],
+      
+    ["PHILIPS LED 60W A19 Soft White Clear 2PK N/D",
+     "10.97", 
+     "004",
+     0, 
+     "L", 
+     60, 
+     2,
+     "SW" 
+    ],
+
+    ["PHILIPS LED 60W A19 Bright White 3PK D",
+     "18.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     3,
+     "BW" 
+    ],
+
+    ["PHILIPS LED 40W A15 Soft White WarmGlow Clear",
+     "9.47", 
+     "004",
+     1, 
+     "L", 
+     40, 
+     1,
+     "SW" 
+    ],
+
+    ["PHILIPS LED Vintage 60W A19 Amber (2000K) D",
+     "12.97", 
+     "004",
+     1, 
+     "LV", 
+     60, 
+     1, 
+     'A'
+    ],
+
+    ["PHILIPS Halogen 60W Fan/Garage Door A15 Soft White 2PK",
+     "4.97", 
+     "012",
+     1, 
+     "H", 
+     60, 
+     2,
+    ],
+
+    ["PHILIPS LED 60W A19 Soft White D",
+     "6.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     1,
+     "SW" 
+    ],
+    
+    ["PHILIPS Halogen 60W A-Line (A19) Clear 2 Pack",
+     "5.47", 
+     "012",
+     1, 
+     "H", 
+     60, 
+     2
+    ],
+
+    ["PHILIPS LED 25W A15 Filament Clear (2200K)",
+     "8.97", 
+     "004",
+     1, 
+     "LV", 
+     25, 
+     1,
+     "R" 
+    ],
+
+     ["ECOSMART LED 60W A19 Soft White 6PK N/D ",
+     "16.98", 
+     "004",
+     0, 
+     "L", 
+     60, 
+     6,
+     "SW" 
+    ],
+
+    ["PHILIPS LED 40W A19 Daylight N/D",
+     "6.97", 
+     "004",
+     0, 
+     "L", 
+     40, 
+     2,
+     "DL" 
+    ],
+
+     ["ECOSMART LED 60W A19 Soft White 6PK D ",
+     "29.97", 
+     "006",
+     1, 
+     "L", 
+     60, 
+     6,
+     "SW" 
+    ],
+
+    ["PHILIPS Halogen 100W A-Line (A19) Clear 2 Pack",
+     "5.98", 
+     "012",
+     1, 
+     "H", 
+     60, 
+     2
+    ],
+
+    ["PHILIPS Halogen 100W A-Line (A19) White 2 Pack",
+     "5.98", 
+     "012",
+     1, 
+     "H", 
+     60, 
+     2
+    ],
+
+    ["PHILIPS LED 60W A19 Soft White 6PK D",
+     "34.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     6,
+     "SW"
+    ],
+
+    ["PHILIPS Halogen 40W A-Line (A19) Clear 2 Pack",
+     "5.47", 
+     "012",
+     1, 
+     "H", 
+     40, 
+     2
+    ],
+
+    ["PHILIPS LED 60W A19 Soft White 3PK D",
+     "18.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     3,
+     "SW" 
+    ],
+
+    ["PHILIPS Halogen 40W Fan/Garage Door A19 Soft White (Clear) 2PK",
+     "4.24", 
+     "012",
+     1, 
+     "H", 
+     60, 
+     2,
+    ],
+    
+    ["PHILIPS Halogen 60W Fan/Garage Door A15 Soft White (White) 2PK",
+     "4.24", 
+     "012",
+     1, 
+     "H", 
+     60, 
+     2,
+    ],
+
+    ["PHILIPS Halogen 40W A-Line (A19) Clear 2PK",
+     "5.47", 
+     "012",
+     1, 
+     "H", 
+     40, 
+     2
+    ],    
+
+    ["PHILIPS LED 60W A21 Soft White WarmGlow D",
+     "19.97", 
+     "004",
+     1, 
+     "L", 
+     60, 
+     1,
+     "SW" 
+    ],
+
+     ["PHILIPS Halogen 60W A-Line (A19) (White) 2 PK",
+     "5.47", 
+     "012",
+     1, 
+     "H", 
+     60, 
+     2
+    ],
+]
