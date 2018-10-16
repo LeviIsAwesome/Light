@@ -11,4 +11,4 @@ Screen shot of the App in Action
 ![](https://github.com/LeviIsAwesome/Light/blob/master/screenshot/Type_Page.png)
 
 ### LED Bulbs Page
-![](https://github.com/LeviIsAwesome/Light/blob/master/screenshot/LED_page.png
+![](https://github.com/LeviIsAwesome/Light/blob/master/screenshot/LED_page.png)
